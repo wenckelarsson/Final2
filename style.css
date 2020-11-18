@@ -50,7 +50,7 @@ nav ul li:hover{
     border: orangered 0 0 10px 0;
     box-shadow: black 0 0 3px 0;
     border-radius: 25px;
-    background-color: #cfd3ce;
+    background-color: white;
     margin: 20px;
     padding: 20px;
 
@@ -68,7 +68,7 @@ article figure{
     box-shadow: black 0 0 7px 0;
     border: orangered 2px;
     border-radius: 25px;
-    background-color: #D9DCD6;
+    background-color: white;
     display: inline-block;
     text-align: center;
 }
